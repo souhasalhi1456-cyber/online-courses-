@@ -4,7 +4,7 @@ This project analyzes an online courses dataset from Kaggle to identify e-learni
 ## 📁 File Structure
 project/
 
-│
+
 ├── Cleaning and Preparing the Kaggle Online Courses Dataset.ipynb
 
 ├── Online_Courses_Cleaned.csv
