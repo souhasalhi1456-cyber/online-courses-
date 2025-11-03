@@ -3,10 +3,14 @@ Project Overview
 This project analyzes an online courses dataset from Kaggle to identify e-learning market trends and course performance metrics. The analysis includes data cleaning, interactive dashboard creation, and strategic insights generation.
 ## 📁 File Structure
 project/
+
 │
 ├── Cleaning and Preparing the Kaggle Online Courses Dataset.ipynb
+
 ├── Online_Courses_Cleaned.csv
+
 ├── online courses dashboard.pbix
+
 └── rapport vf.pdf
 
 ## 📋 Files Description
